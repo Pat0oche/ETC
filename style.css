@@ -1,0 +1,11 @@
+.bg-blue {
+    background-color: #003C93;
+}
+
+.nav-link {
+    color: rgba(255,255,255,1) !important;
+}
+
+.nav-link:hover {
+    color: rgba(255,255,255,0.7) !important;
+}
